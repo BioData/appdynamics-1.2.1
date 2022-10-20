@@ -1,0 +1,4 @@
+#ifndef EXTCONF_H
+#define EXTCONF_H
+#define HAVE_RB_THREAD_CALL_WITHOUT_GVL 1
+#endif
